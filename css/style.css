@@ -19,6 +19,7 @@ h2 {
 a {
 	color: #1685A8;
 }
+
 a:active,
 a:hover {
 	color: #8AC8DB;
@@ -104,6 +105,5 @@ blockquote {
 
 .cursor-question {
 	cursor: help;
-	/* alternative cursor: pointer; */
 }
 
